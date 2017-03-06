@@ -1,0 +1,10 @@
+Hamburger: 	1.25
+Cheeseburger: 	1.5
+Hotdog Sandwich: 	1.1
+Chicken Sandwich: 	1.25
+Beef patty: 	0.99
+Chicken Nuggets: 	1.1
+French Frice: 	0.75
+Fried Chicken: 	3.25
+Rice: 	0.75
+Soda: 	0.75
